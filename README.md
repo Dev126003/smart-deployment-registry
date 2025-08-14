@@ -121,6 +121,10 @@ Blockchain Storage – Guarantees immutability
 
 Role-Based Access Control – Restricts modification rights
 
+Ganache Blcoks-:
+<img width="1192" height="402" alt="image" src="https://github.com/user-attachments/assets/7763feab-b020-43b7-8c5a-f0b88e6935cd" />
+
+
 
 
 
